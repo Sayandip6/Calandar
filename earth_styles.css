@@ -14,14 +14,12 @@ h1 {
   color: #58f2e5;
   font-size: 50px;
 }
-}
 
 header {
   background-color: #000000;
   color: #fff;
   padding: 20px;
   text-align: center;
-
 }
 
 nav button {
@@ -32,6 +30,7 @@ nav button {
   cursor: pointer;
   font-family: cursive;
 }
+
 #calendar { 
   width: 80%;
   max-width: 800px;
