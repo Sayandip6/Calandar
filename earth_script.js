@@ -119,12 +119,4 @@ function displayCalendar(month, year) {
     tableHTML += '</tr></table>';
     calendar.innerHTML = tableHTML;
 }
-This updated version should ensure that the calendar displays correctly aligned with the real-world calendar.
-
-
-
-
-
-Message ChatGPT…
-
-ChatGPT can make mistakes. Consider checking important 
+ 
